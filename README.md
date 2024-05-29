@@ -1,6 +1,6 @@
 # CodSoft
 
-**Credit Card Fraud Detection Project**
+<h1>Credit Card Fraud Detection Project</h1>
 Preferred Model: Logistic Regression with SMOTE
 
 Objective
