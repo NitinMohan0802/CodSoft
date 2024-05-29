@@ -3,23 +3,23 @@
 <h1>Credit Card Fraud Detection Project</h1>
 Preferred Model: Logistic Regression with SMOTE
 
-Objective
+**Objective**
 
 The primary objective of this project is to develop a credit card fraud detection model that accurately identifies fraudulent transactions while minimizing false positives.
 
-Model Selection
+**Model Selection**
 
 Out of the various models considered, the preferred choice for this project is Logistic Regression due to its simplicity, interpretability, and suitability for binary classification tasks.
 
-Imbalance Handling: SMOTE Technique
+**Imbalance Handling: SMOTE Technique**
 
 The highly imbalanced nature of the dataset, with a small fraction of fraudulent transactions, requires addressing class imbalance. The chosen technique for this purpose is
 
-SMOTE (Synthetic Minority Over-sampling Technique).
+**SMOTE (Synthetic Minority Over-sampling Technique).**
 
 SMOTE creates synthetic instances of the minority class to balance the dataset.
 It helps prevent the model from being biased towards the majority class.
-Steps for Logistic Regression with SMOTE
+**Steps for Logistic Regression with SMOTE**
 
 Data Preprocessing:
 
@@ -29,7 +29,7 @@ SMOTE Resampling:
 
 Apply SMOTE to the training data to balance class distribution.
 Generate synthetic instances of the minority class.
-Model Training:
+**Model Training:**
 
 Train a Logistic Regression model on the resampled data.
 Hyperparameter Tuning:
@@ -58,3 +58,6 @@ RESULT
 The project aims to achieve a highly accurate and robust model that can effectively detect credit card fraud while maintaining a low false positive rate. The choice of the final model and its performance will be based on comprehensive evaluation metrics and domain-specific considerations.
 
 By successfully developing and deploying a fraud detection model, the project contributes to enhancing financial security and minimizing the impact of fraudulent activities on credit card holders and financial institutions.
+
+
+
