@@ -54,7 +54,7 @@ Conclusion
 
 By utilizing Logistic Regression with the SMOTE technique, this project aims to deliver a reliable credit card fraud detection model that enhances financial security and protects customers from fraudulent activities.
 
-RESULT
+RESULTS
 The project aims to achieve a highly accurate and robust model that can effectively detect credit card fraud while maintaining a low false positive rate. The choice of the final model and its performance will be based on comprehensive evaluation metrics and domain-specific considerations.
 
 By successfully developing and deploying a fraud detection model, the project contributes to enhancing financial security and minimizing the impact of fraudulent activities on credit card holders and financial institutions.
